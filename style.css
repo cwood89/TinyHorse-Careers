@@ -84,6 +84,31 @@ hr {
 	border-top: 10px solid #e35443;
 	min-height: 500px;
 }
+
 .culture-img {
 	height: 650px;
+
+}
+
+footer {
+    background-color: #212326;
+    padding: 100px;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+}
+.bottom-footer {
+    display: flex;
+    justify-content: left;
+    font-size: 8pt;
+    padding-top: 20px;
+}
+.bottom-footer p{
+    color: #5C7C91;
+}
+.bottom-footer a {
+    color: #5C7C91;
 }
