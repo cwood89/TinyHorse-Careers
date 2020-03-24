@@ -1,0 +1,33 @@
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 40px;
+
+}
+
+#img-section {
+	height: 100vh;
+	background-image: url(./images/Careers-header.jpg);
+	background-attachment: scroll;
+	color:white;
+	width:100%;
+	margin-bottom: 0;
+}
+
+#img-section .jumbotron {
+	background-color:transparent;
+	height:100%;
+	display:flex-column;
+	padding: 50px 0px;
+	display:flex;
+	align-items: center;
+}
+
+#gradient {
+	background-image: url(./images/Tiny-Horse-Agency-Gradient.jpg);
+	height:50px;
+	margin-top: 0;
+}
